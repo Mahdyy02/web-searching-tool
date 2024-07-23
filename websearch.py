@@ -1,5 +1,6 @@
 #pip install google
 #pip install beautifulsoup4
+#pip install requests
 
 # Please make sure that the library insalled is google and not googlesearch-python
 # And if you have any other variations installed make sure to create a virtual environment
